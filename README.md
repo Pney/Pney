@@ -1,5 +1,5 @@
 ## ⭐ About
-Hello, I'm Thiago Santos, a software developer focused mainly on Ruby on Rails, JavaScript and TypeScript. I am currently in the 4th semester of the Systems Analysis and Development course.
+Hello, I'm Thiago Santos, a software developer focused mainly on Ruby on Rails, JavaScript and TypeScript. I am currently in the 5th semester of the Systems Analysis and Development course.
 
 ## 💻 Technologies
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
